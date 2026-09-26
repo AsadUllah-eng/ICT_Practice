@@ -6,6 +6,6 @@ As a Mechatronics and Control Engineering student, I see ICT everywhere in what 
 
 ICT is also what makes automation and robotics possible in the first place. The systems I want to build one day intelligent machines that combine hardware, software, and AI can't exist without the communication networks, data processing, and connected devices that ICT provides. In a very real sense, ICT is the foundation my entire career goal is built on.
 
-Beyond academics, ICT shapes how I already live and learn — from researching projects online, to using design and modelling software, to staying connected with people and resources far beyond my own city. It's not a separate subject I study; it's the environment I already operate in every day.
+Beyond academics, ICT shapes how I already live and learn from researching projects online, to using design and modelling software, to staying connected with people and resources far beyond my own city. It's not a separate subject I study; it's the environment I already operate in every day.
 
 For me, ICT isn't just a tool. It's the bridge between an idea and a working system and that bridge is exactly what I want to spend my career building.
